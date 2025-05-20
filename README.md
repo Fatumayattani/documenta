@@ -1,6 +1,3 @@
-Here's a comprehensive README.md for **DocuMentor** with architecture visualization:
-
-````markdown
 # DocuMentor 📄✨
 
 [![GitLab Pipeline Status](https://img.shields.io/gitlab/pipeline/$USERNAME/$PROJECT/main)](https://gitlab.com/$USERNAME/documentor/-/pipelines)
